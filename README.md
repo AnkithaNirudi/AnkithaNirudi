@@ -1,6 +1,5 @@
-## Hi there 👋
+##                  Hi there 👋 I'm Ankitha!
 
-I'm Ankitha!
 
 - 🌱 I’m currently learning Data Science
 - 💬 Ask me about Data Science
