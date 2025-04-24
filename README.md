@@ -1,7 +1,10 @@
 ## Hi there 👋
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+I'm Ankitha!
+
+- 🌱 I’m currently learning Data Science
+- 💬 Ask me about Data Science
+- 📫 How to reach me [ankithaneerudi76@gmail.com]
   
 <!--
 **AnkithaNirudi/AnkithaNirudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
